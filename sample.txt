@@ -1,0 +1,5 @@
+Node.js is a cross-platform JavaScript runtime environment.
+It allows developers to write command-line tools and server-side scripts.
+
+Async file I/O operations are non-blocking and efficient.
+This makes Node.js ideal for building lightweight and fast applications.
